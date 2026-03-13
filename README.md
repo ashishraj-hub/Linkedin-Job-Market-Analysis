@@ -550,9 +550,10 @@ If you found this project useful, interesting, or inspiring — let's connect!
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [Ashish Raj]((https://www.linkedin.com/in/ashish-raj-ashishraj/)) |
-| 🐙 GitHub | [Ashish Raj]((https://github.com/ashishraj-hub/)) |
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
 | 📧 Email | ashishrajara16@gmail.com |
+
 
 ### ⭐ Support This Project
 
