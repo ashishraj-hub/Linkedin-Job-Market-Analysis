@@ -5,7 +5,7 @@
 [![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Dataset](https://img.shields.io/badge/Dataset-LinkedIn%20Job%20Postings-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
 [![Kaggle](https://img.shields.io/badge/Source-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![License: Apache2.0](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)]()
 [![PDF Size](https://img.shields.io/badge/PDF%20Export-Under%2010%20MB-blue?style=for-the-badge)]()
 
@@ -550,9 +550,9 @@ If you found this project useful, interesting, or inspiring — let's connect!
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/YOUR-USERNAME](https://linkedin.com/in/YOUR-USERNAME) |
-| 🐙 GitHub | [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME) |
-| 📧 Email | your.email@example.com |
+| 💼 LinkedIn | [Ashish Raj]((https://www.linkedin.com/in/ashish-raj-ashishraj/)) |
+| 🐙 GitHub | [Ashish Raj]((https://github.com/ashishraj-hub/)) |
+| 📧 Email | ashishrajara16@gmail.com |
 
 ### ⭐ Support This Project
 
